@@ -103,18 +103,6 @@ CNN-based pipeline classifying brain MRI scans as tumour-positive or tumour-nega
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mus-shaikh&show_icons=true&theme=default&hide_border=true&title_color=1C2B4A&icon_color=3B82F6&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mus-shaikh&layout=compact&theme=default&hide_border=true&title_color=1C2B4A" height="160"/>
-
-</div>
-
----
-
 ## Connect
 
 | | |
@@ -122,6 +110,8 @@ CNN-based pipeline classifying brain MRI scans as tumour-positive or tumour-nega
 | 💼 LinkedIn | [linkedin.com/in/muskan-shaikh786](https://www.linkedin.com/in/muskan-shaikh786) |
 | 📬 Email | [2003shaikhmuskan@gmail.com](mailto:2003shaikhmuskan@gmail.com) |
 | 🐙 GitHub | [github.com/mus-shaikh](https://github.com/mus-shaikh) |
+| 🌐 Portfolio | [https://mus-shaikh.github.io/Portfolio/](https://mus-shaikh.github.io/Portfolio/) |
+
 
 ---
 
