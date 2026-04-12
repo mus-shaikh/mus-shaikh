@@ -19,7 +19,6 @@ Computer Science & Business Systems student passionate about data analytics, mac
 - 📍 India
 - 🎓 B.Tech — Computer Science & Business Systems (CSBS)
 - 💼 Open to Data Science & ML internships
-- 📬 [2003shaikhmuskan@gmail.com](mailto:2003shaikhmuskan@gmail.com)
 
 ---
 
