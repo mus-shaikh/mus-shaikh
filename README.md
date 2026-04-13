@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C2B4A,3B82F6&height=160&section=header&text=Muskan%20Shaikh&fontSize=36&fontColor=F0F4FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%20%26%20ML%20Explorer%20%E2%80%A2%20CSBS%20Student&descAlignY=58&descSize=14&descColor=93C5FD" width="100%"/>
+
+
+# Muskan Shaikh
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=520&lines=Data+Scientist;Data+Analyst;AI+%26+ML+Explorer;Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Turning+data+into+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -87,7 +88,7 @@ Computer Science & Business Systems student passionate about data analytics, mac
 <tr>
 <td width="50%" valign="top">
 
-### [RAG-Based GenAI Chatbot](https://github.com/mus-shaikh/Chatbot_GenAI)
+###  [RAG-Based GenAI Chatbot](https://github.com/mus-shaikh/Chatbot_GenAI)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-5B21B6?style=flat-square)
 
 Conversational AI powered by Retrieval-Augmented Generation using **Google Gemini 2.5 Flash**. Session memory, Streamlit web UI, and CLI interface with secure API key handling.
@@ -99,7 +100,7 @@ Conversational AI powered by Retrieval-Augmented Generation using **Google Gemin
 </td>
 <td width="50%" valign="top">
 
-### [Diabetes Prediction](https://github.com/mus-shaikh)
+###  [Diabetes Prediction](https://github.com/mus-shaikh)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square)
 
 Binary classification predicting diabetes onset from clinical features — glucose, BMI, insulin, age — on the PIMA Indians dataset with full preprocessing and evaluation.
@@ -113,7 +114,7 @@ Binary classification predicting diabetes onset from clinical features — gluco
 <tr>
 <td width="50%" valign="top">
 
-### [Heart Disease Prediction](https://github.com/mus-shaikh)
+###  [Heart Disease Prediction](https://github.com/mus-shaikh)
 ![Clustering](https://img.shields.io/badge/Clustering+ML-1D4ED8?style=flat-square)
 
 K-Means clustering combined with supervised classification to predict heart disease risk. Patient segments used as features, improving interpretability and diagnostic accuracy.
@@ -125,7 +126,7 @@ K-Means clustering combined with supervised classification to predict heart dise
 </td>
 <td width="50%" valign="top">
 
-### [Brain Tumor Detection](https://github.com/mus-shaikh)
+###  [Brain Tumor Detection](https://github.com/mus-shaikh)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-BE123C?style=flat-square) ![CV](https://img.shields.io/badge/Computer_Vision-9F1239?style=flat-square)
 
 CNN pipeline classifying brain MRI scans as tumour-positive or tumour-negative. Covers image preprocessing, augmentation, and evaluation for reliable medical diagnostics.
