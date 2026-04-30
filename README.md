@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C2B4A,3B82F6&height=160&section=header&text=Muskan%20Shaikh&fontSize=36&fontColor=F0F4FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%20%26%20ML%20Explorer%20%E2%80%A2%20CSBS%20Student&descAlignY=58&descSize=14&descColor=93C5FD" width="100%"/>
 
 # Muskan Shaikh
 
