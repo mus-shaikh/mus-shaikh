@@ -4,7 +4,7 @@
 # Muskan Shaikh
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=520&lines=Data+Scientist;Data+Analyst;AI+%26+ML+Explorer;Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Turning+data+into+decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=520&lines=Data+Scientist;Data+Analyst;AI+%26+ML+Explorer;Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Turning+data+into+decisions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -87,14 +87,43 @@ Computer Science & Business Systems student passionate about data analytics, mac
 <tr>
 <td width="50%" valign="top">
 
+###  [AI Nutrition Planner (Agentic RAG)](https://github.com/mus-shaikh/AI-Nutrition-Planner)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-065F46?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+
+Multi-agent AI system that generates personalized diet plans using **LangGraph + RAG architecture**. Combines LLM reasoning with structured nutrition data for intelligent recommendations.
+
+> `LangGraph Agents` · `RAG Pipeline` · `LLM Decision Making`
+
+`Python` `LangGraph` `LlamaIndex` `Streamlit` `LLM APIs`
+
+</td>
+<td width="50%" valign="top">
+
 ###  [RAG-Based GenAI Chatbot](https://github.com/mus-shaikh/Chatbot_GenAI)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-5B21B6?style=flat-square)
 
-Conversational AI powered by Retrieval-Augmented Generation using **Google Gemini 2.5 Flash**. Session memory, Streamlit web UI, and CLI interface with secure API key handling.
+Conversational AI powered by Retrieval-Augmented Generation using **Gemini API** with session memory and interactive UI.
 
-> `Gemini 2.5 Flash` · `Full-stack` · `Session memory`
+> `Context Awareness` · `Session Memory` · `Real-time Responses`
 
-`Python` `Gemini API` `RAG` `Streamlit`
+`Python` `RAG` `Streamlit` `LLM`
+
+[Live Demo](https://lmekuqpqlduvky2obz6gza.streamlit.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###  [Heart Disease Prediction](https://github.com/mus-shaikh)
+![Clustering](https://img.shields.io/badge/Clustering+ML-1D4ED8?style=flat-square)
+
+Hybrid ML system combining **K-Means clustering + classification** to improve prediction and interpretability.
+
+> `K-Means` · `Feature Engineering` · `Explainability`
+
+`Python` `Scikit-learn` `Seaborn`
 
 </td>
 <td width="50%" valign="top">
@@ -102,40 +131,17 @@ Conversational AI powered by Retrieval-Augmented Generation using **Google Gemin
 ###  [Diabetes Prediction](https://github.com/mus-shaikh)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square)
 
-Binary classification predicting diabetes onset from clinical features — glucose, BMI, insulin, age — on the PIMA Indians dataset with full preprocessing and evaluation.
+Binary classification predicting diabetes onset from clinical features — glucose, BMI, insulin, age — with full preprocessing and evaluation.
 
-> `Logistic Regression` · `Random Forest` · `PIMA`
+> `Logistic Regression` · `Random Forest` · `PIMA Dataset`
 
 `Python` `Scikit-learn` `Pandas` `Matplotlib`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  [Heart Disease Prediction](https://github.com/mus-shaikh)
-![Clustering](https://img.shields.io/badge/Clustering+ML-1D4ED8?style=flat-square)
-
-K-Means clustering combined with supervised classification to predict heart disease risk. Patient segments used as features, improving interpretability and diagnostic accuracy.
-
-> `K-Means` · `Hybrid ML` · `Interpretability`
-
-`Python` `K-Means` `Scikit-learn` `Seaborn`
-
-</td>
-<td width="50%" valign="top">
-
-###  [Brain Tumor Detection](https://github.com/mus-shaikh)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-BE123C?style=flat-square) ![CV](https://img.shields.io/badge/Computer_Vision-9F1239?style=flat-square)
-
-CNN pipeline classifying brain MRI scans as tumour-positive or tumour-negative. Covers image preprocessing, augmentation, and evaluation for reliable medical diagnostics.
-
-> `CNN` · `MRI classification` · `Augmentation`
-
-`Python` `CNN` `OpenCV` `Deep Learning`
+[Live Demo](https://ml-diabetes.streamlit.app/)
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -170,5 +176,4 @@ CNN pipeline classifying brain MRI scans as tumour-positive or tumour-negative. 
 
 ---
 
-<!-- Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1C2B4A,3B82F6&height=100&section=footer&fontSize=12&fontColor=93C5FD&animation=fadeIn" width="100%"/>
