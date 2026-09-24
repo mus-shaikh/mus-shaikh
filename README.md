@@ -5,7 +5,6 @@
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=520&lines=Data+Scientist;Data+Analyst;AI+%26+ML+Explorer;Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Turning+data+into+decisions)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C2B4A?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](https://www.linkedin.com/in/muskan-shaikh786)
@@ -33,6 +32,20 @@ Computer Science & Business Systems student passionate about data analytics, mac
 <tr>
 <td>
 
+**Data Engineering Intern — Madhya Pradesh Urban Development Company (MPUDC)** &nbsp; `Aug 2026 – Present`
+
+- Engineered data pipelines using **Databricks, PySpark, Python, and SQL**, implementing Bronze–Silver–Gold architecture for data cleaning, transformation, and analysis.
+- Built interactive **Databricks dashboards** and developed **SQL Server** data workflows, with planned **FastAPI** integration for application-based project data ingestion and updates.
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+
 **Data Visualization Intern — Infosys Springboard** &nbsp; `Feb 2026 – Apr 2026`
 
 - Cleaned and analysed large tourism datasets using Power BI; surfaced location-based trends via interactive dashboards and geospatial maps for non-technical stakeholders.
@@ -43,6 +56,7 @@ Computer Science & Business Systems student passionate about data analytics, mac
 </table>
 
 ---
+
 
 ## Tech Stack
 
