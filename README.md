@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=180&section=header&text=Muskan%20Shaikh&fontSize=46&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Explorer&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Muskan Shaikh header"/>
+
+<img src="banner.svg" width="100%" alt="Muskan Shaikh - Data Scientist, Data Analyst, AI and ML Explorer"/>
+
 <a href="https://github.com/mus-shaikh">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&height=40&lines=Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Building+end-to-end+data+%26+ML+pipelines;Turning+data+into+decisions" alt="Typing SVG"/>
 </a>
@@ -154,4 +156,4 @@ I'm always happy to talk about data, ML, or internship opportunities.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=100&section=footer" width="100%" alt=""/>
+<img src="footer.svg" width="100%" alt=""/>
