@@ -1,10 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=200&section=header&text=Muskan%20Shaikh&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Data%20Analyst%20%C2%B7%20AI%20%26%20ML%20Explorer&descSize=17&descAlignY=58" width="100%" alt="Muskan Shaikh header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Building+end-to-end+data+%26+ML+pipelines;Turning+data+into+decisions)](https://git.io/typing-svg)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=180&section=header&text=Muskan%20Shaikh&fontSize=46&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Explorer&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Muskan Shaikh header"/>
+<a href="https://github.com/mus-shaikh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&height=40&lines=Healthcare+AI+%7C+RAG+%7C+Deep+Learning;Building+end-to-end+data+%26+ML+pipelines;Turning+data+into+decisions" alt="Typing SVG"/>
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-shaikh786)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2003shaikhmuskan@gmail.com)
